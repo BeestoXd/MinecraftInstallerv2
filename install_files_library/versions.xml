@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+  Do NOT translate this file
+-->
+<versions>
+ <function name='foo' from='PHP 4 &gt;= 4.0.5, PHP 5'/>
+ <function name='bar' from='PHP 5'/>
+ <function name='baz' from='PECL someext &gt;= 0.4'/>
+ <function name='quz' from='PECL someext 0.1-0.3'/>
+ <function name='classname::methodname' from='PECL extname &gt;= 1.1'/>
+</versions>
